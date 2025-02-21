@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm **Shashidhar N**, a passionate developer and t
 - 👯 I’m looking to collaborate on **AI/ML, Cybersecurity & Full-Stack Development**  
 - 🤔 I’m looking for help with **Optimizing AI models for efficiency**  
 - 💬 Ask me about **DSA, ML, and Automation**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/shashidhar18/) **  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashidhar18/) 
 - ⚡ Fun fact: **I love automating everything on my PC!**  
 
 ### 🛠 Tech Stack  
